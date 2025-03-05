@@ -1,3 +1,8 @@
+NeuroNetProj/ImagPrediction/Input/Plane_164949.jpg
+NeuroNetProj/ImagPrediction/Models/densenet121-a639ec97.pth
+NeuroNetProj/ImagPrediction/Models/inception_v3_google-1a9a5a14.pth
+NeuroNetProj/ImagPrediction/Models/mobilenet_v2-b0353104.pth
+NeuroNetProj/ImagPrediction/Models/resnet50-19c8e357.pth
 .venv/
 .venv/lib
 .venv/share
